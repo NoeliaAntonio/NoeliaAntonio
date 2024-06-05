@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hola yo me llamo Noelia Antonio</h1>
+<h1 align="center">Hi 👋, Hola  me llamo Noelia Antonio</h1>
 <p>Soy alumna de la ULP en la carrera de Desarrollo de Software</p>
 
 
